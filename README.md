@@ -8,8 +8,6 @@ Skills: Java / C++ / C / Python / HTML / CSS / JS
 - 🔭 I’m currently working on tic-tac-tac game 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/P541M)  
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=P541M&show_icons=true)  
 
 
