@@ -1,6 +1,5 @@
 ### Hi there 👋, Psalm Eleazar Videna
 #### Design and Development
-![Design and Development](https://media.licdn.com/dms/image/D5616AQH1rdhxOCBcNg/profile-displaybackgroundimage-shrink_350_1400/0/1686190512100?e=1692835200&v=beta&t=Zhx7Rsir15WXcxLkWLN9xHddWE9qXLYAjVynb2KlePY)
 
 I'm Psalm Eleazar, an enthusiastic individual on a journey to become a skilled software engineer. I have a strong passion for technology and a burning desire to learn and grow in the world of web development. My focus lies in both front-end and back-end development, as I believe a holistic understanding of these areas is essential for building exceptional user experiences.
 
