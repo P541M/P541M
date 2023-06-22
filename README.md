@@ -6,13 +6,13 @@ I'm Psalm Eleazar, an enthusiastic individual on a journey to become a skilled s
 Skills: Java / C++ / C / Python / HTML / CSS / JS
 
 - 🔭 I’m currently working on tic-tac-tac game 
-- 🌱 I’m currently learning DSAA 
-- 😄 Pronouns: He/Him 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/P541M)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/psalm-eleazar-videna-7900a6228/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/P541M)  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=P541M)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=P541M&show_icons=true)  
+
+
 
 <!--
 **P541M/P541M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
