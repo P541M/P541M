@@ -4,7 +4,6 @@ An enthusiastic individual on a journey to become a skilled software engineer. I
 
 Skills: Java / C++ / C / Python / HTML / CSS / JS
 
-- 🔭 I’m currently working on a tic-tac-tac game.
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=P541M&show_icons=true)  
