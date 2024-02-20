@@ -2,7 +2,7 @@
 
 An enthusiastic individual on a journey to become a skilled software engineer. I have a strong passion for technology and a burning desire to learn and grow in the world of web development. My focus lies in both front-end and back-end development, as I believe a holistic understanding of these areas is essential for building exceptional user experiences.
 
-Skills: Java / C++ / C / Python / HTML / CSS / JS
+Skills: Java / C / Python / HTML / CSS / JS
 
 
 
