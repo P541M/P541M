@@ -1,8 +1,8 @@
-## Hi there 👋, I'm Psalm Eleazar Videna
+## 👋 "Hello, World!", I'm Psalm Eleazar Videna
 
-An enthusiastic individual on a journey to become a skilled software engineer. I have a strong passion for technology and a burning desire to learn and grow in the world of web development. My focus lies in both front-end and back-end development, as I believe a holistic understanding of these areas is essential for building exceptional user experiences.
+ A second-year Honours Software Engineering (co-op) student at the University of Guelph. Excited to apply my creativity and what I've learned to programming!
 
-Skills: Java / C / Python / HTML / CSS / JS
+Languages: C / Java / SQL / HTML / CSS / JavaScript / Python
 
 
 
