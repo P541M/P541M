@@ -6,11 +6,8 @@ Languages: C / Java / SQL / HTML / CSS / JavaScript / Python
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=P541M&show_icons=true)  
-
-
-
 <!--
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=P541M&show_icons=true)  
 **P541M/P541M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
