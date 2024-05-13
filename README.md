@@ -1,6 +1,6 @@
 # 👋 "Hello, World!", I'm Psalm Eleazar Videna
 
- A second-year Honours Software Engineering (co-op) student at the University of Guelph. Excited to apply my creativity and what I've learned to programming!
+ A second-year Software Engineering student bringing design to functionality!
 
 ## Languages
 <img align="left" alt="C" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
