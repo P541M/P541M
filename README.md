@@ -1,4 +1,4 @@
-# 👋 "Hello, World!", I'm Psalm Eleazar Videna
+# 👋 "Hello, World!", I'm Eleazar
 
  A second-year Software Engineering student bringing design to functionality!
 
