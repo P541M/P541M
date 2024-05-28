@@ -1,6 +1,6 @@
 # 👋 "Hello, World!", I'm Eleazar
 
- A second-year Software Engineering student bringing design to functionality!
+ A second-year Software Engineering student creating code with no limits!
 
           
           
