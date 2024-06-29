@@ -1,9 +1,5 @@
 # 👋 "Hello, World!", I'm Eleazar
-
- A third-year Software Engineering student creating code with no limits!
-
-## About Me
-I'm a passionate software engineering student based in the Greater Toronto Area. I specialize in full-stack development, crafting beautiful interfaces and building robust backend systems.
+I'm a third-year Software Engineering student creating code with no limits! Based in the Greater Toronto Area, I specialize in full-stack development, crafting beautiful interfaces and building robust backend systems.
           
 ## Let's Work Together!
 Psalm Eleazar G. Videna - [Email](mailto:videna.psalmeleazar@gmail.com) - [LinkedIn](https://www.linkedin.com/in/pevidena/) - [GitHub](https://github.com/P541M)
