@@ -2,7 +2,7 @@
 I'm a third-year Software Engineering student creating code with no limits! Based in the Greater Toronto Area, I specialize in full-stack development, crafting beautiful interfaces and building robust backend systems.
           
 ## Let's Work Together!
-Eleazar - [Email](mailto:videna.psalmeleazar@gmail.com) - [LinkedIn](https://www.linkedin.com/in/pevidena/) - [GitHub](https://github.com/P541M)
+Eleazar - [Email](mailto:videna.psalmeleazar@gmail.com) - [LinkedIn](https://www.linkedin.com/in/pevidena/)
 
 <!--
 Languages: C / Java / SQL / HTML / CSS / JavaScript / Python
