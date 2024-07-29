@@ -1,5 +1,5 @@
 # <a href="https://github.com/Quoctynoob"><img src="https://camo.githubusercontent.com/0c732027af8a28d138e3698181f7be7c9b97d443b4beb9c7ce8ec4cffc6b4767/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" height="25px" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a> "Hello, World!", I'm Eleazar
-I'm a third-year Software Engineering student creating code with no limits! Based in the Greater Toronto Area, I specialize in full-stack development, crafting beautiful interfaces and building robust backend systems.
+I'm a third-year Software Engineering student passionate about creating seamless web experiences! Based in the Greater Toronto Area, I specialize in full-stack development, blending my love for designing beautiful, intuitive interfaces with building robust backend systems. I thrive on bringing web apps to life, enjoying every step of the process.
           
 ## Let's Work Together!
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:videna.psalmeleazar@gmail.com)
