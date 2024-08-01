@@ -2,10 +2,9 @@
 I'm a third-year Software Engineering student passionate about creating seamless web experiences! Based in the Greater Toronto Area, I specialize in full-stack development, blending my love for designing beautiful, intuitive interfaces with building robust backend systems. I thrive on bringing web apps to life, enjoying every step of the process.
           
 ## Currently Working On
-### Echo
-Echo is a unique React.js web application that lets users express their thoughts freely. Messages shared on Echo echo throughout the day and disappear at midnight, offering a fresh start each day. It ensures your voice is heard but transient, creating a space for authentic and temporary expression.
+### Echo - a unique React.js web application that lets users express their thoughts freely.
 - [GitHub Repository](https://github.com/P541M/echo-frontend)
-- [Live Demo Coming Soon!]
+- Live Demo Coming Soon!
 
 ## Let's Work Together!
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:videna.psalmeleazar@gmail.com)
