@@ -2,7 +2,7 @@
 I'm a third-year Software Engineering student passionate about creating seamless web experiences! Based in the Greater Toronto Area, I specialize in full-stack development, blending my love for designing beautiful, intuitive interfaces with building robust backend systems. I thrive on bringing web apps to life, enjoying every step of the process.
           
 ## 🚀 Currently Working On
-### Echo - a unique React.js web application that lets users express their thoughts freely.
+### Echo - A unique React.js web application that lets users express their thoughts freely.
 - [GitHub Repository](https://github.com/P541M/echo-frontend)
 - Live Demo Coming Soon!
 
