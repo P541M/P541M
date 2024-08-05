@@ -4,7 +4,7 @@ I'm a third-year Software Engineering student passionate about creating seamless
 ## 🚀 Currently Working On
 ### Echo - A unique React.js web application that lets users express their thoughts freely.
 - [GitHub Repository](https://github.com/P541M/echo-frontend)
-- Live Demo Coming Soon!
+- Deployment coming soon!
 
 ## 🤝 Let's Work Together!
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:videna.psalmeleazar@gmail.com)
