@@ -1,4 +1,4 @@
-## 👋 "Hello, World!", I'm Eleazar
+# 👋 "Hello, World!", I'm Eleazar
 I'm a third-year Software Engineering student passionate about creating seamless web experiences! Based in the Greater Toronto Area, I specialize in full-stack development, blending my love for designing beautiful, intuitive interfaces with building robust backend systems. I thrive on bringing web apps to life, enjoying every step of the process.
 
 ## 🤝 Let's Work Together!
