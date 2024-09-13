@@ -1,5 +1,5 @@
 # 👋 "Hello, World!", I'm Eleazar
-I'm a third-year Software Engineering student passionate about creating seamless web experiences! Based in the Greater Toronto Area, I specialize in full-stack development, blending my love for designing beautiful, intuitive interfaces with building robust backend systems. I thrive on bringing web apps to life, enjoying every step of the process.
+I'm a third-year Software Engineering student passionate about creating seamless web experiences! Based in the Greater Toronto Area, I specialize in full-stack development and project management, blending my love for designing beautiful, intuitive interfaces with building robust backend systems. I thrive on managing the entire lifecycle of web applications, enjoying every step from concept to deployment.
 
 ## 🤝 Let's Work Together!
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:videna.psalmeleazar@gmail.com)
