@@ -1,4 +1,4 @@
-👋 **Hello, World! I'm Eleazar**
+##👋 **Hello, World! I'm Eleazar**
 
 - 🎓 **Third-year Software Engineering student** at the University of Guelph
 - 💻 **Full Stack Developer** based in the Greater Toronto Area
