@@ -2,7 +2,6 @@
 
 - 🎓 **Third-year Software Engineering student** at the University of Guelph
 - 💻 **Full Stack Developer** based in the Greater Toronto Area
-- 🎨 **Passionate about designing intuitive interfaces** and building robust backends
 - 🚀 **Enjoy managing projects** from concept to deployment
 
 ## Let’s Connect!
