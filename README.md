@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hello World! 👋 I'm <strong>Eleazar</strong>
+  Hello, World! 👋 I'm <strong>Eleazar</strong>
 </h1>
 
 - 🎓 Third-year Software Engineering student at the University of Guelph
