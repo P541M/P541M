@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1>
   Hello, World! 👋 I'm <strong>Eleazar</strong>
 </h1>
 
