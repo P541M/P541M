@@ -2,9 +2,9 @@
   Hello, World! 👋 I'm <strong>Eleazar</strong>
 </h1>
 
-- 🎓 Fourth-year Software Engineering student at the University of Guelph
-- 💻 Full Stack Developer based in the Greater Toronto Area
-- 🚀 Enjoy managing projects from concept to deployment
+- Fourth-year Software Engineering student at the University of Guelph
+- Full Stack Developer based in the Greater Toronto Area
+- Enjoy managing projects from concept to deployment
 
 
 <h1>Let's Connect!</h1>
