@@ -1,6 +1,6 @@
 # Hello, I'm Eleazar
 
-SWE @ UofG | Based in GTA
+SWE @ UofG, based in GTA
 
 ## Let's connect
 
