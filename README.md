@@ -1,7 +1,7 @@
 <h1>
   Hello, World! 👋 I'm <strong>Eleazar</strong>
 </h1>
-
+<hr/>
 - Fourth-year Software Engineering student at the University of Guelph
 - Full Stack Developer based in the Greater Toronto Area
 <!---- Enjoy managing projects from concept to deployment-->
