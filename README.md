@@ -4,4 +4,4 @@ SWE @ UofG, based in GTA
 
 ## Let's connect
 
-[Email](mailto:videna.psalmeleazar@gmail.com) • [LinkedIn](https://www.linkedin.com/in/pevidena/) • [Portfolio](https://p541m.github.io/portfolio-old/) • [Twitter](https://twitter.com/psalmeleazar)
+[Email](mailto:videna.psalmeleazar@gmail.com) • [LinkedIn](https://www.linkedin.com/in/pevidena/) • [Portfolio](https://p541m.github.io/portfolio-old/) • [X/Twitter](https://twitter.com/psalmeleazar)
